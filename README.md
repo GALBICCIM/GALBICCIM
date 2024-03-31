@@ -1,5 +1,5 @@
 <h1 align="left">Park Seung Won</h1>
-<h3 align="left">Korea person</h3>
+<h3 align="left">Korean, Frontend Developer</h3>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -30,5 +30,8 @@
     </a>
     <a target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+    </a>
+    <a taget="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
     </a>
 </p>
