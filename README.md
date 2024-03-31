@@ -1,5 +1,6 @@
 <h1 align="left">Park Seung Won</h1>
 <h3 align="left">Korean, Frontend Developer</h3>
+<br />
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -22,7 +23,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40" />
     </a>
 </p>
-<br />
+<hr />
+
 <h3 align="left">Framework and Library:</h3>
 <p align="left">
     <a target="_blank" rel="noreferrer">
