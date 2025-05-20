@@ -44,7 +44,3 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="graphql" width="50" height="50"/>
     </a>
 </p>
-
-<hr />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GALBICCIM&layout=compact" width="80%">
