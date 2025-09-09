@@ -28,4 +28,13 @@
     <a target="_blank" rel="https://nextjs.org/docs">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50" />
     </a>
+	<a target="_blank" rel="https://redux.js.org/">
+    	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="redux" width="50" height="50" />
+	</a>
+	<a target="_blank" rel="https://tailwindcss.com/docs/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="50" height="50" />
+	</a>
+	<a target="_blank" rel="https://styled-components.com/docs/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original-wordmark.svg" alt="styledcomponents" width="50" height="50" />
+	</a>
 </div>
