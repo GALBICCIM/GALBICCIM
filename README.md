@@ -35,6 +35,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="50" height="50" />
 	</a>
 	<a target="_blank" rel="https://styled-components.com/docs/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original-wordmark.svg" alt="styledcomponents" width="50" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original.svg" alt="styledcomponents" width="50" height="50" />
 	</a>
 </div>
